@@ -1,0 +1,430 @@
+body
+{
+background-image: url(' https://wallpaperaccess.com/full/5932118.jpg ');
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+color: white;
+font-size: 18px;
+font-style: oblique;
+}
+.bande-grise 
+{
+  background-image: url('https://cdn.statically.io/gh/Anime-Sama/IMG/img/autres/AS_banniere_border.png ');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 24% 70px;
+  background-color: #060821;
+  height: 125px;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 9999;
+  display: flex;
+}
+
+.bande-grise::after {
+  content: "";
+  display: block;
+  height: 3px;
+  width: 100%;
+  background-color: #fff;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+logo
+{
+width: 100%;
+height: 100px;	
+}
+img
+{
+  width: 50%;
+  height: 170px;
+  object-fit: fill;
+  border-radius: 20px;
+  margin-top: 170px;
+  }
+#image2
+{
+	width: 300px;
+	height: 200px;
+	border: 2px solid white;
+	border-radius: 10px;
+	float: left;
+	margin-left: 90px;
+	margin-top: 50px;
+}
+#image3
+{
+	width: 300px;
+	height: 200px;
+	border: 2px solid white;
+	border-radius: 10px;
+	margin-top: 50px;
+}
+.image-container
+{
+	display: flex;
+	justif-content: space-between;
+}
+.image-container img 
+{
+	margin-right: 80px; 
+}
+#image4
+{
+	width: 300px;
+	height: 200px;
+	border: 2px solid white;
+	border-radius: 10px;
+	object-fit: cover;
+	margin-top: 50px;
+}
+#image5
+{
+	width: 300px;
+	height: 200px;
+	border: 2px solid white;
+	border-radius: 10px;
+	float: left;
+	margin-left: 90px;
+	margin-top: 20px;
+}
+#image6
+{
+	width: 300px;
+	height: 200px;
+	border: 2px solid white;
+	border-radius: 10px;
+	margin-top: 20px;
+}
+#image7
+{
+	width: 300px;
+	height: 200px;
+	border: 2px solid white;
+	border-radius: 10px;
+	margin-top: 20px;
+	object-fit: cover;
+}
+action
+{
+  width: 50%;
+  height: 170px;
+  object-fit: cover;
+  border-radius: 20px;
+  margin-top: 170px;
+  }
+  #image8
+{
+	width: 300px;
+	height: 200px;
+	border: 2px solid white;
+	border-radius: 10px;
+	float: left;
+	margin-left: 90px;
+	margin-top: 50px;
+	object-fit: cover;
+}
+#image9
+{
+	width: 300px;
+	height: 200px;
+	border: 2px solid white;
+	border-radius: 10px;
+	margin-top: 50px;
+	object-fit: cover;
+}
+.image-container
+{
+	display: flex;
+	justif-content: space-between;
+}
+.image-container img 
+{
+	margin-right: 80px; 
+}
+#image10
+{
+	width: 300px;
+	height: 200px;
+	border: 2px solid white;
+	border-radius: 10px;
+	object-fit: cover;
+	margin-top: 50px;
+}
+#image11
+{
+	width: 300px;
+	height: 200px;
+	border: 2px solid white;
+	border-radius: 10px;
+	float: left;
+	margin-left: 90px;
+	margin-top: 20px;
+	object-fit: cover;
+}
+#image12
+{
+	width: 300px;
+	height: 200px;
+	border: 2px solid white;
+	border-radius: 10px;
+	margin-top: 20px;
+	object-fit: cover;
+}
+#image13
+{
+	width: 300px;
+	height: 200px;
+	border: 2px solid white;
+	border-radius: 10px;
+	margin-top: 20px;
+	object-fit: cover;
+}
+sport
+{
+  width: 50%;
+  height: 170px;
+  object-fit: cover;
+  border-radius: 20px;
+  margin-top: 170px;
+  }
+  #image14
+{
+	width: 300px;
+	height: 200px;
+	border: 2px solid white;
+	border-radius: 10px;
+	float: left;
+	margin-left: 90px;
+	margin-top: 50px;
+	object-fit: cover;
+}
+#image15
+{
+	width: 300px;
+	height: 200px;
+	border: 2px solid white;
+	border-radius: 10px;
+	margin-top: 50px;
+	object-fit: cover;
+}
+.image-container
+{
+	display: flex;
+	justif-content: space-between;
+}
+.image-container img 
+{
+	margin-right: 80px; 
+}
+#image16
+{
+	width: 300px;
+	height: 200px;
+	border: 2px solid white;
+	border-radius: 10px;
+	object-fit: fill;
+	margin-top: 50px;
+}
+#image17
+{
+	width: 300px;
+	height: 200px;
+	border: 2px solid white;
+	border-radius: 10px;
+	float: left;
+	margin-left: 90px;
+	margin-top: 20px;
+	object-fit: cover;
+}
+#image18
+{
+	width: 300px;
+	height: 200px;
+	border: 2px solid white;
+	border-radius: 10px;
+	margin-top: 20px;
+	object-fit: cover;
+}
+#image19
+{
+	width: 300px;
+	height: 200px;
+	border: 2px solid white;
+	border-radius: 10px;
+	margin-top: 20px;
+	object-fit: cover;
+}
+shonen
+{
+  width: 50%;
+  height: 170px;
+  object-fit: cover;
+  border-radius: 20px;
+  margin-top: 170px;
+  }
+  #image20
+{
+	width: 300px;
+	height: 200px;
+	border: 2px solid white;
+	border-radius: 10px;
+	float: left;
+	margin-left: 90px;
+	margin-top: 50px;
+	object-fit: cover;
+}
+#image21
+{
+	width: 300px;
+	height: 200px;
+	border: 2px solid white;
+	border-radius: 10px;
+	margin-top: 50px;
+	object-fit: cover;
+}
+.image-container
+{
+	display: flex;
+	justif-content: space-between;
+}
+.image-container img 
+{
+	margin-right: 80px; 
+}
+#image22
+{
+	width: 300px;
+	height: 200px;
+	border: 2px solid white;
+	border-radius: 10px;
+	object-fit: cover;
+	margin-top: 50px;
+}
+.bande-fin
+{
+  background-color: rgba(50, 50, 50, 0.5);
+  height: 250px;
+  width: 900px;
+  margin-top: 100px;
+  display: flex;
+  border-radius: 30px;
+  float: center;
+
+}
+.bande-fin::after
+{
+  content: "";
+  height: 3px;
+  width: 900px;
+  background-color: #fff;
+  position: absolute;
+  border-radius: 30px;
+}
+.lien-image
+{
+  display: inline-block;
+}
+
+img
+{
+  cursor: pointer; 
+  opacity: 0.6;
+}
+
+img:hover 
+{
+  opacity: 1;
+}
+h1
+{
+	color: white;
+	font-weight: bold;
+	text-decoration: underline white;
+	margin-top: 0px;
+	margin-left: 50px;
+}
+.bande-fin img
+{
+	object-fit: normal;
+	margin-top: 0px;
+	height: 150px;
+	width: 600px;
+	margin-left: 150px;
+}
+.blink {
+    animation-name: changecouleur;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+}
+.copyrigth 
+{
+  background-color: #333333;
+  height: 500px;
+  width: 100%;
+  display: block;
+  margin-top: 300px;
+  opacity: 0.8;
+}
+.image-container2
+{
+	display: flex;
+	justif-content: space-between;
+}
+.image-container2 img 
+{
+	margin-right: 30px;
+margin-left: 40px;
+height: 70px;
+width: 70px;
+margin-top: 60px;	
+}
+o1
+{
+	margin-top: 85px;
+	font-size: 30px;
+	color: white;
+	text-decoration: underline white;
+	
+}
+ol
+{
+	margin-top: 87px;
+	font-size: 30px;
+	color: white;
+	text-decoration: underline white;
+	
+}
+.image-container3
+{
+	display: flex;
+	justif-content: space-between;
+}
+.image-container3 img 
+{
+	margin-right: 0px;
+margin-left: 40px;
+height: 70px;
+width: 90px;
+margin-top: 60px;	
+}
+.copyrigth::before {
+  content: "";
+  display: block;
+  height: 4px;
+  width: 99%;
+  background-color: white;
+  position: absolute;
+}
+li
+{
+	list-style: none;
+	margin-left: 0px;
+	text-decoration: underline gray;
+	font-size: 20px;
+}
